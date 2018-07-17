@@ -18,4 +18,6 @@ a {
 	background-color: rgb(85, 130, 60);
 	border: 5px;
 	border-color: white;
+	color: white;
+	text-align: center;
 }
