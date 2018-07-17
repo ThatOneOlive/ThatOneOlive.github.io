@@ -1,7 +1,6 @@
 
 body {
 	background-color: rgb(147, 184, 72);
-	text-align: center;
 }
 
 a {
@@ -12,6 +11,7 @@ a {
 #intro {
 	background-color: rgb(85, 130, 60);
 	color: white;
+	text-align: center;
 }
 
 #nav
@@ -20,6 +20,15 @@ a {
 	margin: auto;
 }
 
+#Block
+{
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: left;
+	float: left;
+	background-color: rgb(85, 130, 60);
+	color: white;
+}
 td
 {
 color: white;
