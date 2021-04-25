@@ -1,0 +1,58 @@
+td {
+    padding: 1%;
+    height: 8%;
+}
+#name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height:20%;
+    color: white;
+    background-color:#51525a;
+    padding: 2%;
+    font-size: 16pt;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+span {
+    display: inline-block;
+    vertical-align: center;
+}
+
+#description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height: 60%;
+    color: white;
+    background-color:#51525a;
+    padding: 2%;
+    border-bottom: 2px solid white;
+}
+
+#cpp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height:20%;
+    background-color: #f34b7d;
+    padding: 2%;
+    color: white;
+    text-align:center;
+}
+
+#x86 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height:20%;
+    background-color:#6E4C13;
+    padding: 2%;
+    color: white;
+    text-align:center;
+}
